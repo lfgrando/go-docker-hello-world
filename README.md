@@ -2,7 +2,8 @@
 
 This is a simple "Hello World" like app using Go and Docker.
 
-The intent of this challenge is to show the message "FullCycle Rocks!" when a the Docker container is executed. This challenge also also states that the container should have a 2mb size at maximum. In this repo, I achieved a *1.81mb* size image.
+The intent of this challenge is to show the message "FullCycle Rocks!" when a the Docker container is executed. This challenge also also states that the container should have a 2mb size at maximum.
+In this repo, I achieved a *1.81mb* size image.
 
 ## How To Run
 
